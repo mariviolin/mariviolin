@@ -1,4 +1,6 @@
-![Negro Azul Blanco Simple Minimalista Ventanas Pantalla Tareas Proyectos Programación Fondo de pantalla para estudiantes](https://github.com/user-attachments/assets/bcb6a527-9f84-4a3a-a531-65f805dd7f20)## Hi there 👋
+![Negro Azul Blanco Simple Minimalista Ventanas Pantalla Tareas Proyectos Programación Fondo de pantalla para estudiantes](https://github.com/user-attachments/assets/bcb6a527-9f84-4a3a-a531-65f805dd7f20)
+
+Hi there 👋
 
 Hello! 👋 I'm a Programming Student based in Málaga.
 Passionate about learning new technologies and constantly exploring innovative solutions. Currently diving into projects involving HTML, CSS, Java, PHP, and MySQL. I have a keen interest in web development and backend systems.
