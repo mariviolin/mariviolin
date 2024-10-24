@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**mariviolin/mariviolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm a Programming Student based in Málaga.
+Passionate about learning new technologies and constantly exploring innovative solutions. Currently diving into projects involving HTML, CSS, Java, PHP, and MySQL. I have a keen interest in web development and backend systems.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
